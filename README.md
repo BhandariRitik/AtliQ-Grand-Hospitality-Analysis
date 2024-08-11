@@ -17,7 +17,8 @@ Their revenue management team had decided to hire a 3rd party service provider t
 ## <ins> Dashboard </ins>
 ### <ins> KPI Analysis </ins> 
 <div align="center">
-  <img src = "https://github.com/user-attachments/assets/21a25e4f-7775-45c2-ba7d-b0d63ed05829"
+  <img src = "https://github.com/user-attachments/assets/99abb171-28d2-4fa3-88ee-69d1296e6582"
+
 
 
 >
@@ -26,16 +27,18 @@ Their revenue management team had decided to hire a 3rd party service provider t
 
 ### <ins>  Hotels & Cities Analysis </ins> 
 <div align="center">
-  <img src = "https://github.com/user-attachments/assets/a0e3a1e8-9bea-4fa5-9d70-94ab653c4331"
+  <img src = "https://github.com/user-attachments/assets/a303e8cd-c334-4768-8b82-d17aa7d544d6"
+
 >
 </div>
 
 
 
 ### <ins> Insights </ins>
-- Generated Highest Revenue in the month of May 573 million.
-- Mumbai contributed most to the renveue among cities 669 million.
-- Among rooms Elite contributed most to the revenue 560 million.
-- 
-- Milk, Curd and Butter have the highest quantity ordered.
-- Curd, Ghee, Butter are the most delayed deliver products.
+- The highest revenue was generated in May, amounting to $573 million.
+- Mumbai was the top contributor among cities, with revenue of $669 million, accounting for 39.13% of the total.
+- Among room categories, Elite generated the most revenue, totaling $560 million and representing 32.79% of the overall revenue.
+- AtliQ Exotica is the leading contributor in terms of revenue, with $320 million (18.75%), an occupancy rate of 43.30%, a cancellation rate of 24.37%, and an average rating of 3.62.
+- Luxury hotels are outperforming business hotels in revenue generation.
+- June saw the highest cancellation rate of 25.11%, with the peak cancellations occurring in week 24.
+  
