@@ -17,9 +17,12 @@ Their revenue management team had decided to hire a 3rd party service provider t
 ## <ins> Dashboard </ins>
 ### <ins> KPI Analysis </ins> 
 <div align="center">
-  <img src = "https://github.com/user-attachments/assets/71ff0593-3abc-4d13-a813-3231dd76f41f"
+  <img src = "https://github.com/user-attachments/assets/21a25e4f-7775-45c2-ba7d-b0d63ed05829"
+
+
 >
 </div>
+
 
 ### <ins>  Hotels & Cities Analysis </ins> 
 <div align="center">
