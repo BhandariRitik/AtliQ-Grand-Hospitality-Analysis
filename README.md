@@ -41,4 +41,5 @@ Their revenue management team had decided to hire a 3rd party service provider t
 - AtliQ Exotica is the leading contributor in terms of revenue, with $320 million (18.75%), an occupancy rate of 43.30%, a cancellation rate of 24.37%, and an average rating of 3.62.
 - Luxury hotels are outperforming business hotels in revenue generation.
 - June saw the highest cancellation rate of 25.11%, with the peak cancellations occurring in week 24.
+- The highest occupancy rate was recorded in June, reaching 44.02%.
   
