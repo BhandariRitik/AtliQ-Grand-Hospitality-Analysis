@@ -17,8 +17,7 @@ Their revenue management team had decided to hire a 3rd party service provider t
 ## <ins> Dashboard </ins>
 ### <ins> KPI Analysis </ins> 
 <div align="center">
-  <img src = "https://github.com/user-attachments/assets/99abb171-28d2-4fa3-88ee-69d1296e6582"
-
+  <img src = "https://github.com/user-attachments/assets/0babf213-39f2-4ed0-827d-25d545806807"
 
 
 >
